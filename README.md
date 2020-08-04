@@ -1,4 +1,4 @@
-### Óla pessoal 👋
+### Olá pessoal 👋
 
 Busco resolver problemas utilizando a programação.
 
