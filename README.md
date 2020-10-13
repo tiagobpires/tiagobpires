@@ -10,5 +10,5 @@
 🎓 &nbsp; Graduating in Computer Science at UECE
 <br/>:man_technologist: &nbsp; I solve problems using programming
 <br/>:sunglasses: &nbsp; I love technologies, games and series
-<br/>:dart: &nbsp; It's never too late to start 
+<br/>:dart: &nbsp; Don't wait for the right time, start now
 <br/>🇧🇷 &nbsp; I'm from Brazil
