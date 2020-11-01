@@ -5,8 +5,6 @@
 
 ## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Visits Badge](https://badges.pufler.dev/visits/tiagobpires/tiagobpires)](https://badges.pufler.dev)
-
 🎓 &nbsp; Graduating in Computer Science at UECE
 <br/>:man_technologist: &nbsp; I solve problems using programming
 <br/>:sunglasses: &nbsp; I love technologies, games and series
