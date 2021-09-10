@@ -27,12 +27,11 @@ I'm a brazilian computer science student from Brazil
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 
 ## GitHub Analytics
-<div>
+
+<p align="center">
   <a href="https://github.com/tiagobpires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobpires&theme=dracula&show_icons=true&count_private=true&hide=stars">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobpires&theme=dracula&layout=compact&langs_count=5">
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagobpires&theme=dracula">
-  </p>
-</div>
+</p>
 
