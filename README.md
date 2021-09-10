@@ -28,11 +28,19 @@ I'm a brazilian computer science student from Brazil
 
 ## GitHub Analytics
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <p align="center">
   <a href="https://github.com/tiagobpires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobpires&theme=dracula&show_icons=true&count_private=true&hide=stars">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobpires&theme=dracula&layout=compact&langs_count=5">
-  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobpires&theme=dracula&show_icons=true&count_private=true&hide=stars">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobpires&theme=dracula&layout=compact&langs_count=5">
+  </a>
 </p>
-<p></p>
 
