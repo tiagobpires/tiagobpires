@@ -33,7 +33,7 @@ I'm a brazilian computer science student from Brazil
 <p align="center">
 <a href="https://github.com/tiagobpires">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobpires&theme=dracula&show_icons=true&hide=stars">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobpires&theme=dracula&show_icons=true&hide=stars&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobpires&theme=dracula&layout=compact&langs_count=5">
 </a>
 </p>
