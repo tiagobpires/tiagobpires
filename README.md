@@ -1,12 +1,36 @@
 # Tiago Barros Pires
-[![LinkedIn Badge](https://img.shields.io/badge/tiagobpires-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/tiagobpires/)](https://www.linkedin.com/in/tiagobpires/)
-[![Gmail Badge](https://img.shields.io/badge/tiagobarrospires%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:tiagobarrospires@gmail.com)](mailto:tiagobarrospires@gmail.com)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/WTplYWk2SRyrJGMSxo/source.gif" width="350" height="270"/>
+<img src="https://img.shields.io/badge/tiagobpires-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/tiagobpires-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/tiagobarrospires-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25">&nbsp;
 
-## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
+I'm a brazilian computer science student from Brazil
 
-🎓 &nbsp; Graduating in Computer Science at UECE
-<br/>:man_technologist: &nbsp; I solve problems using programming
-<br/>:sunglasses: &nbsp; I love technologies, games and series
-<br/>:dart: &nbsp; Don't wait for the right time, start now
-<br/>🇧🇷 &nbsp; I'm from Brazil
+![Profile Views](https://komarev.com/ghpvc/?username=tiagobpires&theme=dracula&color=ff69b4&style=flat&label=Profile+Views)
+
+### About me
+🔭&nbsp;I’m currently working on PCA/UECE scholarship to prepare for academic competitions
+<br/>🎓 &nbsp; Graduating in Computer Science at UECE
+<br/>🌱&nbsp;Learning about Web development and Competitive programming
+<br/>💡&nbsp;I'm interested about Computer Science, Games and Series
+<br/>💬&nbsp;Ask me about Competitive programming
+
+## Tech Stack
+
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+
+## GitHub Analytics
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobpires&theme=dracula&show_icons=true&count_private=true&hide=stars">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobpires&theme=dracula&layout=compact&langs_count=5">
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagobpires&theme=dracula">
+</p>
+</div>
