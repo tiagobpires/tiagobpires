@@ -6,14 +6,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
 I'm a brazilian computer science student from Brazil
 
-![Profile Views](https://komarev.com/ghpvc/?username=tiagobpires&theme=dracula&color=ff69b4&style=flat&label=Profile+Views)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=tiagobpires&theme=dracula&color=ff69b4&style=flat&label=Profile+Views) -->
 
 ### About me
-🔭&nbsp;I’m currently working on PCA/UECE scholarship to prepare for academic competitions
+🔭&nbsp; I’m currently working on PCA/UECE scholarship to prepare for academic competitions
 <br/>🎓 &nbsp; Graduating in Computer Science at UECE
-<br/>🌱&nbsp;Learning about Web development and Competitive programming
-<br/>💡&nbsp;I'm interested about Computer Science, Games and Series
-<br/>💬&nbsp;Ask me about Competitive programming
+<br/>🌱&nbsp; Learning about Web development and Competitive programming
+<br/>💡&nbsp; I'm interested about Computer Science, Games and Series
+<br/>💬&nbsp; Ask me about Competitive programming
 
 ## Tech Stack
 
@@ -27,8 +27,6 @@ I'm a brazilian computer science student from Brazil
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 
 ## GitHub Analytics
-
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/tiagobpires">
