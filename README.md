@@ -10,7 +10,7 @@ I'm a brazilian computer science student from Brazil
 
 ### About me
 🔭&nbsp; I’m currently working on PCA/UECE scholarship to prepare for academic competitions
-<br/>🎓 &nbsp; Graduating in Computer Science at UECE
+<br/>🎓 &nbsp;Graduating in Computer Science at UECE
 <br/>🌱&nbsp; Learning about Web development and Competitive programming
 <br/>💡&nbsp; I'm interested about Computer Science, Games and Series
 <br/>💬&nbsp; Ask me about Competitive programming
