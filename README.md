@@ -5,18 +5,14 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
 I'm a brazilian computer science student from Brazil
-
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=tiagobpires&theme=dracula&color=ff69b4&style=flat&label=Profile+Views) -->
-
 ### About me
-🔭&nbsp; I’m currently working on PCA/UECE scholarship to prepare for academic competitions
-<br/>🎓 &nbsp;Graduating in Computer Science at UECE
-<br/>🌱&nbsp; Learning about Web development and Competitive programming
-<br/>💡&nbsp; I'm interested about Computer Science, Games and Series
-<br/>💬&nbsp; Ask me about Competitive programming
-
+🔭&nbsp; I’m currently working on **PCA/UECE scholarship to prepare for academic competitions**
+<br/>🎓 &nbsp;Graduating in **Computer Science at UECE**
+<br/>🌱&nbsp; Learning about **Web development and Competitive programming**
+<br/>💡&nbsp; I'm interested about **Computer Science, Games and Series**
+<br/>💬&nbsp; Ask me about **Competitive programming**
 ## Tech Stack
-
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
