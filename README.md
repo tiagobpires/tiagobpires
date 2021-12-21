@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/tiagobarrospires-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25">&nbsp;
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
-I'm a brazilian computer science student from Brazil
+I'm a brazilian computer science student at UECE
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=tiagobpires&theme=dracula&color=ff69b4&style=flat&label=Profile+Views) -->
 ### About me
 🔭&nbsp; I’m currently working on **PCA/UECE scholarship to prepare for academic competitions**
