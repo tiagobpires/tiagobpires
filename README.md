@@ -1,17 +1,20 @@
 # Tiago Barros Pires
-<img src="https://img.shields.io/badge/tiagobpires-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/tiagobpires-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/tiagobarrospires-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25">&nbsp;
+<a href="https://www.github.com/tiagobpires" target="_blank"><img src="https://img.shields.io/badge/tiagobpires-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="mailto:tiagobarrospires@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tiagobarrospires-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/tiagobpires" target="_blank"><img src="https://img.shields.io/badge/tiagobpires-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+<a href="https://www.instagram.com/tiagobpires" target="_blank"><img src="https://img.shields.io/badge/tiagobpires-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World
-I'm a brazilian computer science student at UECE
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=tiagobpires&theme=dracula&color=ff69b4&style=flat&label=Profile+Views) -->
+
+I'm a brazilian computer science student at Federal University of Ceara (UFC)
+
 ### About me
-🔭&nbsp; I’m currently working on **PCA/UECE scholarship to prepare for academic competitions**
-<br/>🎓 &nbsp;Graduating in **Computer Science at UECE**
+🎓 &nbsp;Graduating in **Computer Science at UFC**
 <br/>🌱&nbsp; Learning about **Web development and Competitive programming**
 <br/>💡&nbsp; I'm interested about **Computer Science, Games and Series**
 <br/>💬&nbsp; Ask me about **Competitive programming**
+<br/>⚡&nbsp;Fun fact: **This README was created by a website I made, [readme creator](https://readmecreator.herokuapp.com/)**
+
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
