@@ -11,8 +11,8 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 
 ### About me
 🎓 &nbsp;Graduating in **Computer Science at UFC**
-<br/>🔭&nbsp; I’m currently working as a freelancer in **teaching and writing lessons at [Neps Academy](https://neps.academy/login)**
-<br/>🌱&nbsp; Learning about **Web and Mobile development**
+<br/>🔭&nbsp; I'm currently working as a **Backend Developer at [GREat](https://www.instagram.com/great.ufc/)** and as a **freelancer teacher at [Neps Academy](https://neps.academy/).**
+<br/>🌱&nbsp; Learning about **Web development**, focusing in **Backend** with python.
 <br/>💡&nbsp; I'm interested about **Computer Science, Games and Series**
 <br/>💬&nbsp; Ask me about **web development or programming in general**
 <br/>⚡&nbsp; Fun fact: **This README was created by a website I made, [readme creator](https://readmecreator.herokuapp.com/)**
