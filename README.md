@@ -15,7 +15,7 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 <br/>🌱&nbsp; Learning about **Web development**, focusing in **Backend** with python.
 <br/>💡&nbsp; I'm interested about **Computer Science, Games and Series**
 <br/>💬&nbsp; Ask me about **web development or programming in general**
-<br/>⚡&nbsp; Fun fact: **This README was created by a website I made, [readme creator](https://readmecreator.herokuapp.com/)**
+<br/>⚡&nbsp; Fun fact: **This README was created by a website I made, [readme creator](https://github.com/tiagobpires/readme-creator)**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
