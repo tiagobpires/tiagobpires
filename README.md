@@ -11,7 +11,7 @@ I'm a brazilian computer science student at Federal University of Ceara (UFC)
 
 ### About me
 🎓 &nbsp;Graduating in **Computer Science at UFC**
-<br/>🔭&nbsp; I'm currently working as a **Intern Developer at [Profectum](https://profectum.com.br/)** and as a **Freelancer Teacher and Backend Developer at [Neps Academy](https://neps.academy/).**
+<br/>🔭&nbsp; I'm currently working as a **Developer and Mentor at [Behring Foundation]([https://profectum.com.br/](https://fundacaobehring.org/))** and as a **Freelancer Teacher and Full Stack Developer at [Neps Academy](https://neps.academy/).**
 <br/>🌱&nbsp; Learning about **Web development**, focusing in **Backend** with python.
 <br/>💡&nbsp; I'm interested about **Computer Science, Games and Series**
 <br/>💬&nbsp; Ask me about **web development or programming in general**
