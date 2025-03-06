@@ -9,7 +9,7 @@
 
 ## 👋 Hello World!
 
-I'm a Brazilian computer science student at Federal University of Ceara (UFC) with over 3 years of experience in Software Engineering, working on academic projects and startups, including solutions for international clients. I'm currently working at Neps Academy and Behring Foundation.
+I'm a Computer Science student at the Federal University of Ceará (UFC) with over three years of experience in Software Engineering. I specialize in Backend development, focusing on robust APIs and optimized integrations using Python. I have worked on academic projects and startups, delivering solutions for international clients. Currently, I work at Neps Academy and Behring Foundation.
 
 ### About me
 
