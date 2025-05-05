@@ -11,6 +11,8 @@
 
 I'm a Brazilian computer science student at Federal University of Ceara (UFC) with over 3 years of experience in Software Engineering, working on academic projects and startups, including solutions for international clients. I'm currently working at Neps Academy and Behring Foundation.
 
+teste
+
 ### About me
 
 🎓 &nbsp;Graduating in **Computer Science at UFC**
