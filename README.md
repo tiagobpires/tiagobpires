@@ -11,10 +11,6 @@
 
 I'm a computer science student at Federal University of Ceara (UFC) with over 3 years of experience in Software Engineering, academic projects and startups, including solutions for international clients. I'm working at Neps Academy and Behring Foundation.
 
-teste
-teste
-teste
-
 ### About me
 
 🎓 &nbsp;Graduating in **Computer Science at UFC**
