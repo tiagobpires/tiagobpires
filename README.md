@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+### Titulo menor
+#### Tituto menor ainda
+
+Here are some ideas to get **you started**:
+*itálico*
+
+
+- 🔭 I’m currently working on Behring Foundation
+- 🌱 I’m currently learning Git e Web Development
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
 <!--
 **tiagobpires/tiagobpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
