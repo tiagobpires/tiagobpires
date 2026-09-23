@@ -10,7 +10,7 @@ Currently exploring AI Agents and new ways to integrate AI into software product
 - 🌱 I’m currently learning about **AI Agents**
 - 👯 I’m looking to collaborate on **backend, and open source projects**
 - 💬 Ask me about **Python, backend development, APIs, and software architecture**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tiagobarros/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/tiagobpires/)**
 - ⚡ Fun fact: **I teach software development and help shape the next generation of tech talent.**
 
 ## 🛠️ Tech Stack
